@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_node - node of a binary tree
- * @parant: root of tree
+ * @parent: root of tree
  * @value: value
  *
  * Return: node on success, NULL otherwise
