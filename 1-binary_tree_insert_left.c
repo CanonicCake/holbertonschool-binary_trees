@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_insert_left - insert lower value on left
- * @parant: root of tree
+ * @parent: root of tree
  * @value: value to be manipulated
  *
  * Return: parant on success, NULL on failure
